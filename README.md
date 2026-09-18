@@ -1,20 +1,20 @@
 # Library Management System
 
 A Java console application that manages a library's book catalog, member
-registrations, and the borrow/return lifecycle — including overdue fine
-calculation, thread-safe concurrent borrowing, and persistent storage via
+registrations and the borrow/return lifecycle — including overdue fine
+calculation, thread-safe concurrent borrowing and persistent storage via
 JDBC/SQLite.
 
 Built as the "Build Your Own Project" evaluated submission for the
 **Programming in Java** course, covering: Java OOP, Collections Framework,
-Exception Handling, File I/O, Concurrency, and JDBC.
+Exception Handling, File I/O, Concurrency and JDBC.
 
 ## Overview
 
 The system lets a librarian add books to a catalog and register members
 (Students or Faculty, each with different borrowing limits and fine rates).
 Members can borrow and return books; the system tracks due dates, calculates
-overdue fines automatically, and safely handles multiple members trying to
+overdue fines automatically and safely handles multiple members trying to
 borrow the same book at the same time.
 
 ## Features
@@ -101,4 +101,4 @@ LibraryManagementSystem/
 ## Screenshots
 
 _Add screenshots of your console output and `library.db` contents (e.g. via
-DB Browser for SQLite) here before submission._
+DB Browser for SQLite) ._
