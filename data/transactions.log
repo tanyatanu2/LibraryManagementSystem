@@ -1,0 +1,28 @@
+[2026-09-15T23:17:25.514306] Added book: Effective Java
+[2026-09-15T23:17:25.520583] Added book: Clean Code
+[2026-09-15T23:17:25.521616] Added book: Design Patterns
+[2026-09-15T23:17:25.522577] Registered member: Tanya
+[2026-09-15T23:17:25.523314] Registered member: Dr. Rao
+[2026-09-15T23:17:25.527150] Tanya borrowed 'Effective Java'
+[2026-09-15T23:17:25.533569] Tanya returned 'Effective Java' (fine: Rs.0.0)
+[2026-09-15T23:17:25.537421] Dr. Rao borrowed 'Clean Code'
+[2026-09-15T23:17:25.538386] Registered member: Riya
+[2026-09-15T23:17:25.539177] Registered member: Aman
+[2026-09-15T23:17:25.540004] Registered member: Dr. Iyer
+[2026-09-15T23:17:25.542023] Tanya borrowed 'Design Patterns'
+[2026-09-15T23:17:25.543436] Riya borrowed 'Design Patterns'
+[2026-09-15T23:17:25.544777] Aman borrowed 'Design Patterns'
+[2026-09-18T22:57:18.860943] Added book: Effective Java
+[2026-09-18T22:57:18.863878] Added book: Clean code 
+[2026-09-18T22:57:18.864822] Added book: Design Patterns
+[2026-09-18T22:57:18.865889] Registered member: Tanya
+[2026-09-18T22:57:18.866773] Registered member: Dr. Rao
+[2026-09-18T22:57:18.870158] Tanya borrowed 'Effective Java'
+[2026-09-18T22:57:18.874541] Tanya returned 'Effective Java' (fine: Rs.0.0)
+[2026-09-18T22:57:18.876355] Dr. Rao borrowed 'Clean code '
+[2026-09-18T22:57:18.877152] Registered member: Riya
+[2026-09-18T22:57:18.877831] Registered member: Aman
+[2026-09-18T22:57:18.878502] Registered member: Dr. Iyer
+[2026-09-18T22:57:18.880152] Tanya borrowed 'Design Patterns'
+[2026-09-18T22:57:18.882103] Riya borrowed 'Design Patterns'
+[2026-09-18T22:57:18.883865] Aman borrowed 'Design Patterns'
